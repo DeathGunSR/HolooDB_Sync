@@ -1,0 +1,19 @@
+{
+    "sql_server": {
+        "server": "127.0.0.1",
+        "database": "Holoo1",
+        "user": "Sync Agent",
+        "password": "-----------------"
+    },
+    "woocommerce": {
+        "url": "https://ebimarket.ir",
+        "consumer_key": "----------------------",
+        "consumer_secret": "-----------------"
+    },
+    "sync_interval_seconds": 30,
+    "batch_size": 20,
+    "batch_delay_seconds": 2,
+    "wc_cache_ttl_hours": 6,
+    "holoo_hash_cache_enabled": true
+    
+}
